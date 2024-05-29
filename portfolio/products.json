@@ -1,0 +1,37 @@
+{
+    "dragon-fruit":{
+    "slug": "dragon-fruit",
+    "name": "Dragon Fruit",
+    "category": "fruits",
+    "price": 7.34,
+    "msp": 10.34
+  },
+  "cherry":{
+    "slug": "cherry",
+    "name": "Cherry",
+    "category": "fruits",
+    "price": 7.34,
+    "msp": 10.34
+  },
+  "apple":{
+    "slug": "apple",
+    "name": "Apple",
+    "category": "fruits",
+    "price": 7.34,
+    "msp": 10.34
+  },
+  "grape":{
+    "slug": "grape",
+    "name": "Grape",
+    "category": "fruits",
+    "price": 7.34,
+    "msp": 10.34
+  },
+  "orange":{
+    "slug": "orange",
+    "name": "Orange",
+    "category": "fruits",
+    "price": 7.34,
+    "msp": 10.34
+  }
+}
