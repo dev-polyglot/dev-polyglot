@@ -1,156 +1,161 @@
 {
-"brassica":{
-"slug":"brassica",
-"name":"Brassica",
-"subCategories":{
-"cabbage":{
-"slug":"cabbage",
-"name":"Cabbage"
-},
-"broccoli":{
-"slug":"broccoli",
-"name":"Broccoli"
-},
-"brussels-sprouts":{
-"slug":"brussels-sprouts",
-"name":"Brussels Sprouts"
-},
-"bok-choy":{
-"slug":"bok-choy",
-"name":"Bok Choy"
-},
-"kohlrabi":{
-"slug":"kohlrabi",
-"name":"Kohlrabi"
-},
-"cauliflower":{
-"slug":"cauliflower",
-"name":"Cauliflower"
-},
-"radicchio":{
-"slug":"radicchio",
-"name":"Radicchio"
-},
-"turnips":{
-"slug":"turnips",
-"name":"Turnips"
-},
-"mustard-greens":{
-"slug":"mustard-greens",
-"name":"Mustard Greens"
-},
-"collard-greens":{
-"slug":"collard-greens",
-"name":"Collard Greens"
-},
-"watercress":{
-"slug":"watercress",
-"name":"Watercress"
-},
-"arugula":{
-"slug":"arugula",
-"name":"Arugula"
-}
-}
-},
-"fungus":{
-"slug":"fungus",
-"name":"Fungus",
-"subCategories":{
-"button-mushroom":{
-"slug":"button-mushroom",
-"name":"Button Mushroom"
-},
-"shiitake":{
-"slug":"shiitake",
-"name":"Shiitake"
-},
-"portabella":{
-"slug":"portabella",
-"name":"Portabella"
-},
-"porcini":{
-"slug":"porcini",
-"name":"Porcini"
-}
-}
-},
-"roots-and-tubers":{
-"slug":"roots-and-tubers",
-"name":"Roots And Tubers",
-"subCategories":{
-"carrots":{
-"slug":"carrots",
-"name":"Carrots"
-},
-"radishes":{
-"slug":"radishes",
-"name":"Radishes"
-},
-"onions":{
-"slug":"onions",
-"name":"Onions"
-},
-"potatoes":{
-"slug":"potatoes",
-"name":"Potatoes"
-},
-"okra":{
-"slug":"okra",
-"name":"Okra"
-}
-}
-},
-"greens":{
-"slug":"greens",
-"name":"Greens",
-"subCategories":{
-"spinach":{
-"slug":"spinach",
-"name":"Spinach"
-},
-"watercress":{
-"slug":"watercress",
-"name":"Watercress"
-},
-"radicchio":{
-"slug":"radicchio",
-"name":"Radicchio"
-},
-"kale":{
-"slug":"kale",
-"name":"Kale"
-},
-"swiss-chard":{
-"slug":"swiss-chard",
-"name":"Swiss Chard"
-}
-}
-},
-"fruits":{
-"slug":"fruits",
-"name":"Fruits",
-"subCategories":{
-"spinach":{
-"slug":"spinach",
-"name":"Spinach"
-},
-"watercress":{
-"slug":"watercress",
-"name":"Watercress"
-},
-"radicchio":{
-"slug":"radicchio",
-"name":"Radicchio"
-},
-"kale":{
-"slug":"kale",
-"name":"Kale"
-},
-"swiss-chard":{
-"slug":"swiss-chard",
-"name":"Swiss Chard"
-}
-}
-}
-}
+    "brassica":{
+        "slug":"brassica",
+        "name":"Brassica",
+        "img":"/images/greens/char-beck-5eM6sRTCCUc-unsplash.jpg",
+        "subCategories":{
+            "cabbage":{
+                "slug":"cabbage",
+                "name":"Cabbage"
+            },
+            "broccoli":{
+                "slug":"broccoli",
+                "name":"Broccoli"
+            },
+            "brussels-sprouts":{
+                "slug":"brussels-sprouts",
+                "name":"Brussels Sprouts"
+            },
+            "bok-choy":{
+                "slug":"bok-choy",
+                "name":"Bok Choy"
+            },
+            "kohlrabi":{
+                "slug":"kohlrabi",
+                "name":"Kohlrabi"
+            },
+            "cauliflower":{
+                "slug":"cauliflower",
+                "name":"Cauliflower"
+            },
+            "radicchio":{
+                "slug":"radicchio",
+                "name":"Radicchio"
+            },
+            "turnips":{
+                "slug":"turnips",
+                "name":"Turnips"
+            },
+            "mustard-greens":{
+                "slug":"mustard-greens",
+                "name":"Mustard Greens"
+            },
+            "collard-greens":{
+                "slug":"collard-greens",
+                "name":"Collard Greens"
+            },
+            "watercress":{
+                "slug":"watercress",
+                "name":"Watercress"
+            },
+            "arugula":{
+                "slug":"arugula",
+                "name":"Arugula"
+            }
+        }
+    },
+    "fungus":{
+        "slug":"fungus",
+        "name":"Fungus",
+        "img":"/images/fungus/j-yeo-Rx5SQ4a1CA4-unsplash.jpg",
+        "subCategories":{
+            "button-mushroom":{
+                "slug":"button-mushroom",
+                "name":"Button Mushroom"
+            },
+            "shiitake":{
+                "slug":"shiitake",
+                "name":"Shiitake"
+            },
+            "portabella":{
+                "slug":"portabella",
+                "name":"Portabella"
+            },
+            "porcini":{
+                "slug":"porcini",
+                "name":"Porcini"
+            }
+        }
+    },
+    "roots-and-tubers":{
+        "slug":"roots-and-tubers",
+        "name":"Roots And Tubers",
+        "img":"/images/greens/christina-rumpf-sj-wTHJs9qU-unsplash.jpg",
+        "subCategories":{
+            "carrots":{
+                "slug":"carrots",
+                "name":"Carrots"
+            },
+            "radishes":{
+                "slug":"radishes",
+                "name":"Radishes"
+            },
+            "onions":{
+                "slug":"onions",
+                "name":"Onions"
+            },
+            "potatoes":{
+                "slug":"potatoes",
+                "name":"Potatoes"
+            },
+            "okra":{
+                "slug":"okra",
+                "name":"Okra"
+            }
+        }
+    },
+    "greens":{
+        "slug":"greens",
+        "name":"Greens",
+        "img":"/images/greens/brian-mcgowan-w46WZBxI_uk-unsplash.jpg",
+        "subCategories":{
+            "spinach":{
+                "slug":"spinach",
+                "name":"Spinach"
+            },
+            "watercress":{
+                "slug":"watercress",
+                "name":"Watercress"
+            },
+            "radicchio":{
+                "slug":"radicchio",
+                "name":"Radicchio"
+            },
+            "kale":{
+                "slug":"kale",
+                "name":"Kale"
+            },
+            "swiss-chard":{
+                "slug":"swiss-chard",
+                "name":"Swiss Chard"
+            }
+        }
+    },
+    "fruits":{
+        "slug":"fruits",
+        "name":"Fruits",
+        "img":"/images/fruits/mockup-graphics-KfX5c9TxYPg-unsplash.jpg",
+        "subCategories":{
+            "spinach":{
+                "slug":"spinach",
+                "name":"Spinach"
+            },
+            "watercress":{
+                "slug":"watercress",
+                "name":"Watercress"
+            },
+            "radicchio":{
+                "slug":"radicchio",
+                "name":"Radicchio"
+            },
+            "kale":{
+                "slug":"kale",
+                "name":"Kale"
+            },
+            "swiss-chard":{
+                "slug":"swiss-chard",
+                "name":"Swiss Chard"
+            }
+        }
+    }
+  }

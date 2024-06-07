@@ -1,37 +1,160 @@
 {
-    "dragon-fruit":{
-    "slug": "dragon-fruit",
-    "name": "Dragon Fruit",
-    "category": "fruits",
-    "price": 7.34,
-    "msp": 10.34
-  },
-  "cherry":{
-    "slug": "cherry",
-    "name": "Cherry",
-    "category": "fruits",
-    "price": 7.34,
-    "msp": 10.34
-  },
-  "apple":{
-    "slug": "apple",
-    "name": "Apple",
-    "category": "fruits",
-    "price": 7.34,
-    "msp": 10.34
-  },
-  "grape":{
-    "slug": "grape",
-    "name": "Grape",
-    "category": "fruits",
-    "price": 7.34,
-    "msp": 10.34
-  },
-  "orange":{
-    "slug": "orange",
-    "name": "Orange",
-    "category": "fruits",
-    "price": 7.34,
-    "msp": 10.34
-  }
+  "dragon-fruit":{
+  "slug": "dragon-fruit",
+  "name": "Dragon Fruit",
+  "category": "fruits",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/fruits/dragon-fruit.jpg"
+},
+"apple":{
+  "slug": "apple",
+  "name": "Apple",
+  "category": "fruits",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/fruits/amit-lahav-rxN2MRdFJVg-unsplash.jpg",
+  "bestseller":true
+},
+"grape":{
+  "slug": "grape",
+  "name": "Grape",
+  "category": "fruits",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/fruits/mockup-graphics-KfX5c9TxYPg-unsplash.jpg",
+  "bestseller":true
+},
+"strawberry":{
+  "slug": "strawberry",
+  "name": "Strawberry",
+  "category": "fruits",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/fruits/isaac-quesada-DYbr5utVs8s-unsplash.jpg"
+},
+"blueberry":{
+  "slug": "blueberry",
+  "name": "Blueberry",
+  "category": "fruits",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/fruits/eiliv-aceron--D6xO2LUVdk-unsplash.jpg"
+},
+"pomgrenate":{
+  "slug": "pomgrenate",
+  "name": "Pomgrenate",
+  "category": "fruits",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/fruits/mockup-graphics-XiWQbLEhFyo-unsplash.jpg"
+},
+"mushroom1":{
+  "slug": "mushroom1",
+  "name": "mushroom1",
+  "category": "fungus",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/fungus/beth-macdonald-xHwRfau81rE-unsplash.jpg"
+},
+"mushroom2":{
+  "slug": "mushroom2",
+  "name": "mushroom2",
+  "category": "fungus",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/fungus/blackieshoot-b_XBdFNi7FE-unsplash.jpg",
+  "bestseller":true
+},
+"mushroom3":{
+  "slug": "mushroom3",
+  "name": "mushroom3",
+  "category": "fungus",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/fungus/bryony-elena-XTHbvHuZNNM-unsplash.jpg"
+},
+"mushroom4":{
+  "slug": "mushroom4",
+  "name": "mushroom4",
+  "category": "fungus",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/fungus/dennis-scherdt-afvdKrcS09M-unsplash.jpg",
+  "bestseller":true
+},
+"mushroom5":{
+  "slug": "mushroom5",
+  "name": "mushroom5",
+  "category": "fungus",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/fungus/j-yeo-Rx5SQ4a1CA4-unsplash.jpg"
+},
+"mushroom6":{
+  "slug": "mushroom6",
+  "name": "mushroom6",
+  "category": "fungus",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/fungus/rachel-horton-kitchlew-FSLmk8OBhtg-unsplash.jpg"
+},
+"green1":{
+  "slug": "green1",
+  "name": "green1",
+  "category": "greens",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/greens/brian-mcgowan-w46WZBxI_uk-unsplash.jpg",
+  "bestseller":true
+},
+"green2":{
+  "slug": "green2",
+  "name": "green2",
+  "category": "greens",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/greens/char-beck-5eM6sRTCCUc-unsplash.jpg"
+},
+"green3":{
+  "slug": "green3",
+  "name": "green3",
+  "category": "greens",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/greens/christina-rumpf-sj-wTHJs9qU-unsplash.jpg",
+  "bestseller":true
+},
+"green4":{
+  "slug": "green4",
+  "name": "green4",
+  "category": "greens",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/greens/olya-JTIJEcmw0HA-unsplash.jpg"
+},
+"green5":{
+  "slug": "green5",
+  "name": "green5",
+  "category": "greens",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/greens/2.jpg"
+},
+"green6":{
+  "slug": "green6",
+  "name": "green6",
+  "category": "greens",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/greens/3.jpg"
+},
+"green7":{
+  "slug": "green7",
+  "name": "green7",
+  "category": "greens",
+  "price": 7.34,
+  "msp": 10.34,
+  "img": "/images/greens/5.jpg"
+}
 }
